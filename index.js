@@ -8,9 +8,9 @@ async function getData(url, country){
     .then((r) => r.json())
     .catch((e) => console.log(e));
     
-    const chatBlacklist = data.chat;
-    const hashtagBlacklist = data.hashtag_blacklist;
-    const searchBlacklist = data.search_blacklist;
+    const chatBlacklist = data?.chat;
+    const hashtagBlacklist = data?.hashtag_blacklist;
+    const searchBlacklist = data?.search_blacklist;
     
     let chatData = "";
     let hashtagData = "";
