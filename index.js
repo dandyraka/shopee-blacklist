@@ -4,7 +4,9 @@ import fetch from "node-fetch";
 async function getData(url, country){
     const dir = `./Blacklist/${country}`;
 
-    const data = await fetch(url).then((r) => r.json());
+    const data = await fetch(url)
+    .then((r) => r.json())
+    .catch();
     
     const chatBlacklist = data.chat;
     const hashtagBlacklist = data.hashtag_blacklist;
