@@ -1,0 +1,54 @@
+http
+https
+what's app
+what'sapp
+whatsapp
+wechat
+messenger
+sms
+imessage
+email
+text
+bank transfer
+banktransfer
+offlinepayment
+bank account
+bankaccount
+credit card
+cod
+bank
+direct account
+carousell
+facebook
+qoo10
+lazada
+11th
+gem5
+gem five
+11street
+gemfive
+zalora
+direct purchase
+Chat better
+ready to buy this item
+not dealing on shopee
+email me directly
+Insurance and gst
+what app
+whats app
+wassap
+wassup
+wasap
+wasup
+akaun
+bank saya
+pembayaran
+pembelian
+tidak melalui shopee
+\.com
+\.net
+\.org
+\.com\.my
+www\.
+\.cn
+\+601

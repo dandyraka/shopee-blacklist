@@ -1,0 +1,30 @@
+{
+    "name": "shopee-blacklist",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+      "build": "node index.js",
+      "prettier": "prettier",
+      "format": "prettier --write \"**/*.js\"",
+      "lint": "prettier --check \"**/*.js\"",
+      "test": "prettier --check \"**/*.js\""
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/dandyraka/shopee-blacklist.git"
+    },
+    "author": "soruly",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/dandyraka/shopee-blacklist/issues"
+    },
+    "homepage": "https://github.com/dandyraka/shopee-blacklist#readme",
+    "dependencies": {
+      "node-fetch": "^3.1.1"
+    },
+    "devDependencies": {
+      "prettier": "^2.4.0"
+    }
+  }
