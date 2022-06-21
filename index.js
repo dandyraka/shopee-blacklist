@@ -6,7 +6,7 @@ async function getData(url, country){
 
     const data = await fetch(url)
     .then((r) => r.json())
-    .catch();
+    .catch((e) => console.log(e));
     
     const chatBlacklist = data.chat;
     const hashtagBlacklist = data.hashtag_blacklist;
