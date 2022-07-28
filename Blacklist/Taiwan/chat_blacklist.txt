@@ -35,3 +35,5 @@ Line
 找工作
 http://f.shopee.tw/file/
 http://cf.shopee.tw/file
+https://cf.shopee.tw/file/
+https://f.shopee.tw/file/
