@@ -11,8 +11,6 @@ giveaway
 verification code
 won prize
 otp
-http
-https
 what'sapp
 whatsapp
 wechat
